@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoSourceLinkRegex", "DemoSourceLinkRegex\DemoSourceLinkRegex.csproj", "{8A91FC37-BC43-4DF9-8771-778387E8407C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "props", "props", "{48BC1F26-17DF-40AC-9C2D-2CDC50B017E8}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Build.props = Directory.Build.props
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A91FC37-BC43-4DF9-8771-778387E8407C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A91FC37-BC43-4DF9-8771-778387E8407C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A91FC37-BC43-4DF9-8771-778387E8407C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A91FC37-BC43-4DF9-8771-778387E8407C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E439054-DF59-4F64-8160-21FC7BEF009B}
+	EndGlobalSection
+EndGlobal
